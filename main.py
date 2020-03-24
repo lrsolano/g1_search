@@ -14,7 +14,7 @@ Tipo 1 = página com a noticia
 Tipo 2 = páginas de noticias
 '''
 
-#teste news(link='https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/23/casos-de-coronavirus-no-brasil-em-23-de-marco.ghtml')
+#Função principal
 #função para buscar a materia no site
 def news(phrase='',link='',q=0.3):
     #verifica se foi passado algum parametro
